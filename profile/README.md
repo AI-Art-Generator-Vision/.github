@@ -15,7 +15,7 @@ AI Art Generator Vision Studio is a powerful creative tool that uses artificial 
 ---
 
 ![Screenshot](https://www.paintshoppro.com/static/psp/images/products/plugins/vision-fx/ver-2/06.jpg)
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt1DCBuOC62DqWNK6lcFwns-eK9OTVQjwY0g&s)
+![Screenshot](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://media.easy-peasy.ai/4f465b8e-9c6d-412b-a99d-5403cf746d22/055ffd05-d6e7-4043-8235-e72b81338627.png)
 
 ## 🧩 Installation Instructions  
 1. Download the zip from the link above.  
